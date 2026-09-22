@@ -1,4 +1,18 @@
 {
     "java.project.sourcePaths": ["java"],
     "java.project.outputPath": "bin",
+    "editor.quickSuggestions": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.tabCompletion": "off",
+    "editor.inlineSuggest.enabled": false,
+    "editor.parameterHints.enabled": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "github.copilot.enable": {
+        "*": false
+    },
+    "editor.formatOnType": false,
+    "editor.formatOnSave": false,
+
+    "go.useLanguageServer": true
 }
